@@ -34,20 +34,8 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/Shiii_i_`,
-          },
-          {
             name: `GitHub`,
             url: `https://github.com/Sigumaa`,
-          },
-          {
-            name: `Zenn`,
-            url: `https://zenn.dev/shiyui`,
-          },
-          {
-            name: `scrapbox`,
-            url: `https://scrapbox.io/shiyui/`,
           },
         ],
       },
