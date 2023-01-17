@@ -25,12 +25,12 @@ const config: GatsbyConfig = {
         formatString: `YYYY-MM-DD`,
         navigation: [
           {
-            title: `Blog`,
-            slug: `/blog`,
+            title: `About Me`,
+            slug: `/about`,
           },
           {
-            title: `About`,
-            slug: `/about`,
+            title: `Blog`,
+            slug: `/blog`,
           },
         ],
         externalLinks: [
