@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `Shiyui`,
     siteHeadline: `Shiyui`,
     siteUrl: `https://www.shiyui.dev/`,
-    siteDescription: `Hello! I'm shiyui, a student in Japan. I'm interested in ServerSide.`,
+    siteDescription: `Hello! I'm shiyui.`,
     siteImage: `/shiyui-chan.jpg`,
     author: `@shiii_i_`,
   },
@@ -52,7 +52,7 @@ const config: GatsbyConfig = {
       options: {
         name: `shiyui-portfolio`,
         short_name: `shiyui-portfolio`,
-        description: `Hello! I'm shiyui, a student in Japan. I'm interested in ServerSide.`,
+        description: `Hello! I'm shiyui.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
